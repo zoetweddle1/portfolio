@@ -1,0 +1,70 @@
+body {
+  margin: 0;
+  font-family: 'Montserrat', sans-serif;
+  font-size:  1.5rem;
+}
+
+nav {
+background-color: #ffbf00;
+position: fixed;
+width: 100%;
+text-align: center;
+}
+
+nav a {
+  color: black;
+  text-decoration: none;
+  font-size: 1rem;
+  letter-spacing: 0.4rem;
+  text-transform: uppercase;
+}
+
+nav li {
+  display: inline-block;
+  padding: 1rem;
+}
+
+header {
+  min-height: 100vh;
+  background-color: #ffbf00;
+  color: black;
+}
+
+header main {
+  padding-top: 7rem;
+  font-size: 3rem;
+  text-align: center;
+}
+
+header img {
+  width: 25%;
+}
+
+h2 {
+  font-family: 'Rozha', serif;
+  font-size: 4rem;
+}
+
+.about-me {
+  color: black;
+  line-height: 1.5;
+  padding: 7rem;
+}
+
+.content {
+  margin: auto;
+  width: 70%;
+  text-align: center;
+  min-height: 100vh;
+}
+
+.projects {
+  padding: 7rem;
+  background-color: #f2f2f2;
+}
+
+.projects img {
+  width: 30%;
+  padding: 5px;
+
+}
